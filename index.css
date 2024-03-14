@@ -44,9 +44,8 @@ h2{
     text-align:center;
 }
 
-a{
+span{
     text-decoration: underline rgb(162, 97, 222);
-    font-size: 16px;
 }
 
 #certify{
