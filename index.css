@@ -61,7 +61,7 @@ span{
     margin-bottom: 5px;
 }
 
-h5{
+h5 ,a{
     display: inline-block;
     font-size: 10px;
     margin-top: 10px;
